@@ -20,3 +20,11 @@ Necesitas clonar el proyecto en tu computadora con git clone.
 - [ ] Aparte se guardan en un bloc de notas indicando las credenciales de las mismas
 - [ ] Tienes una pagina especial para ver las credenciales sin necesidad de entrar a phpmyadmin, usando la contrasena y usuario
 - [ ] Lo puedes desplegar en una servidor real con Heroku
+
+## Informacion de este phishing
+
+Este phishing fue creado con las siguientes herramientas:
+
+- **HTTtracker** -> Nos ayuda a crear un clon de la pagina que estamos clonando, pero esto nos ayuda a tener una mejor personalizacion en la pagina.
+- **PHP** -> Para guardar los datos y enviarnos a nosotros las credenciales es importante usar PHP, ya que nos permite de una forma facil trabajar con esto.
+- **MySql** -> Para guardar los datos en una base de datos
